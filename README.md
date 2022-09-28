@@ -108,7 +108,7 @@
 
 # Create Database Access Layer 
     - Used to access data sources.
-    - Map Database class we  add the annotation, @Entity.
+    - Map Database class we  add the annotation, @Entity and @Table in class level.
 
 # Create Web Application
     - We can create the HTML pages, CSS in resource static folder in src->resources
