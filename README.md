@@ -21,6 +21,7 @@
 # SpringBootRest
     - We use SringIntiliazr web application to generate the springbbot application or else we can
         use the plugin of SpringBoot Initializr in IntelliJ to build a springboot app project.
+    - If used SprinInitializr in IntelliJ, open file>new>project>SpringInitializr, to create a new project.
     - We can add the configuration , names, dependencies (Web, JPA, Mysql/NoSQL server etc..) in prior 
         to the build application.
 # Dependency Change
